@@ -13,4 +13,4 @@
   <strong><a href="elijahecret@gmail.com">Email</a></strong>
 </p>
 
-<p align="center">Currently working on an A.S in mathematics</p>
+<p align="center">Learning about programming languages...</p>
