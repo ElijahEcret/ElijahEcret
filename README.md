@@ -13,4 +13,4 @@
   <strong><a href="elijahecret@gmail.com">Email</a></strong>
 </p>
 
-<p align="center">Learning about mathematics...</p>
+<p align="center">Learning about compilers and interpreters...</p>
